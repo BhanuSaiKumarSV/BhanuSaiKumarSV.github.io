@@ -16,13 +16,10 @@ Performance is about ***People***
 Detailed description relies in [Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/).
 
 ## Verify performance aspects of Node React Application
-Verified AUTO project using Google Speed Insights which showed
+Verified our project using Google Speed Insights which showed
 - Stats of performance
 - Reasons for less performance
 - Improvements to be taken etc.
-
-Following can Provide the detailed aspects of Auto
-https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.auto.com%2Fcars-for-sale%2Fless-than-10000-dollars&tab=desktop
 
 ## Audit the application performance using chrome Audit Mechanism
 In Chrome Dev Tools,
